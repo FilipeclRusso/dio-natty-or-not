@@ -3,19 +3,19 @@
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Diga não ao "suco" ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Criação de uma imagem relacionada ao tema com uso de uma IA Generativa.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+IA Generativa Leonardo AI para a criação da imagem.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Escrevi um prompt para que a IA elaborasse uma imagem de um fisioculturista levantando pesos e com a legenda "natty or not".
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
